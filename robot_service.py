@@ -9,7 +9,8 @@ robot = ChatBot('Robô de atendimento Coronavírus',
     response_selection_method=select_answer,
     logic_adapters=[
         {
-            "import_path": "chatterbot.logic.BestMatch",
+            'import_path': 'chatterbot.logic.BestMatch',
+            'default_response': 'Ainda não sei como responder essa pergunta. Por favor, pergunte novamente.',
         }
     ])
 
