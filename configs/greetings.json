@@ -1,0 +1,20 @@
+{
+    "chats": [
+        {
+            "messages": ["olá", "oi"],
+            "answer": "Olá, sou o robô de atendimento sobre o Coronavírus. Como posso te ajudar?"
+        },
+        {
+            "messages": ["bom dia"],
+            "answer": "Bom dia! Sou o robô de atendimento do Coronavírus. Como posso te ajudar?"
+        },
+        {
+            "messages": ["boa tarde"],
+            "answer": "Boa tarde! Sou o robô de atendimento do Coronavírus. Como posso te ajudar?"
+        },
+        {
+            "messages": ["boa noite"],
+            "answer": "Boa noite! Sou o robô de atendimento do Coronavírus. Como posso te ajudar?"
+        }
+    ]
+}

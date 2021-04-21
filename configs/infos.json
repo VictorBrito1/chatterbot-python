@@ -1,0 +1,36 @@
+{
+    "chats": [
+        {
+            "messages": ["Qual a origem do %vírus%?", "Como surgiu o %vírus%?"],
+            "answer": "Não se tem fatos comprovados quanto ao surgimento do vírus, porém estudos indicam que ele chegou ao mercado de Wuhan-China a partir de fazendas de vida selvagem."
+        },
+        {
+            "messages": ["Quais são os sintomas do %vírus%?", "Quais são os sintomas mais comuns?"],
+            "answer": "Os sintomas mais comuns são febre, tosse, dor de garganta, perca do olfato/paladar. Casos graves chegam a ter síndrome respiratória aguda grave, insuficiência respiratória grave e pneumonia grave. Existem também casos assintomáticos."
+        },
+        {
+            "messages": ["Existe uma cura para o %vírus%?", "Qual a cura do %vírus%?"],
+            "answer": "Atualmente não existe cura comprovada no tratamento  contra o vírus. Porém, já foram desenvolvidas vacinas de uso emergencial para reduzir a disseminação e os casos moderados e graves."
+        },
+        {
+            "messages": ["Quais são as vacinas existentes do %vírus%?", "Quais são as vacinas do %vírus%?"],
+            "answer": "As vacinas existentes são: INO-4800, mRNA-1273, mRNA BNT162b2, AZD1222, Ad5-nCoV, Sputnik V, Verocells, Vero Cells e Coronavac."
+        },
+        {
+            "messages": ["Quem é do grupo de risco?", "Como saber se sou do grupo de risco?"],
+            "answer": "Portadores de doenças crônicas como diabetes, hipertensão, asma e doença pulmonar obstrutiva crônica. Idosos, gestantes, pessoas com obesidade, com doença renal crônica ou em tratamento de lúpus ou câncer, também fazem parte do grupo de risco."
+        },
+        {
+            "messages": ["Animais podem contrair o %vírus%?", "Animais podem pegar o %vírus%?"],
+            "answer": "Animais podem contrair contrair o vírus, ainda que muitos não fiquem doentes nem o transmitam aos humanos."
+        },
+        {
+            "messages": ["Com quanto tempo posso fazer o teste?", "Depois de quanto tempo pode ser feito o teste?"],
+            "answer": "O teste rápido pode ser feito a partir do 7º dia do primeiro sintoma ou contato com alguem contaminado. O RT-PCR deve ser feito entre o 3º a 7º dia de sintomas ou contato. O teste antígeno deve ser feito na primeira semana de sintomas."
+        },
+        {
+            "messages": ["O que devo fazer quando tenho sintomas?", "Estou com sintomas, o que devo fazer?"],
+            "answer": "Em caso de suspeita, o ideal é ficar em isolamento por 15 dias e procurar um hospital somente em agravamento dos sintomas. Em caso de dúvidas, pode-se consultar o telefone 136."
+        }      
+    ]
+}
